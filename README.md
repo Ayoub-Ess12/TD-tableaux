@@ -1,1 +1,1 @@
-<h1>TD tablaux </h1>
+<h1>TD <i>tablaux</i></h1>
